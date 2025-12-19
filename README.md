@@ -18,7 +18,7 @@ The analysis reveals a significant disparity in sleep quality across different p
 * **Highest Quality:** Engineers reported the best sleep quality with an average score of 8.41, followed by Lawyers and Accountants (7.89).
 * **Lowest Quality:** Salespersons and Scientists had the lowest scores, averaging between 5.00 and 5.88.
 
-`![Quality by Occupation](path/to/image1.png)`
+<img width="648" height="360" alt="Image" src="https://github.com/user-attachments/assets/a303343e-4301-4aef-b9e7-d5ebd14b2760" />
 
 ### 2. Key Influencers for Insomnia
 Using Power BI's Key Influencers visual, I identified specific drivers for sleep disorders:
