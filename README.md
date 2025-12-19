@@ -25,14 +25,14 @@ Using Power BI's Key Influencers visual, I identified specific drivers for sleep
 * **Sales Profession:** Being a Salesperson increases the likelihood of Insomnia by 6.04x compared to other professions.
 * **Teaching Profession:** Being a Teacher increases the risk by 4.51x.
 
-`![Insomnia Influencers](path/to/image2.png)`
+<img width="640" height="644" alt="Image" src="https://github.com/user-attachments/assets/265689ff-194b-4f4d-bf1d-678a7a938a1a" />
 
 ### 3. BMI Category & Stress Levels
 There is a notable correlation between Body Mass Index (BMI) and reported stress levels:
 * Individuals in the Overweight category reported the highest average stress level (6.76).
 * This is significantly higher than those in the Normal (5.89) and Obese (5.78) categories.
 
-`![Stress by BMI](path/to/image3.png)`
+<img width="626" height="358" alt="Image" src="https://github.com/user-attachments/assets/d3567e1e-8d22-44b7-b819-54d52378d528" />
 
 ### 4. Physical Activity & Sleep Duration
 * The data indicates a positive trend between Physical Activity Level and Sleep Duration.
